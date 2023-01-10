@@ -49,6 +49,16 @@ nav li {
     background: #FD6E0A;
     border-radius: 5px;
 }
+.btn-orange{
+    border: 2px solid orange;
+    background: #FFF8F3;
+    color: #FD6E0A;
+    padding: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 30px;
+    border-radius: 5px;
+}
 
 .banner {
     margin: 0 200px;
